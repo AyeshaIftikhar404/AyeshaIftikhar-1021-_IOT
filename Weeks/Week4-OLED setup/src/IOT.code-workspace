@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "D:/5th semester/IOT"
+		},
+		{
+			"name": "blink",
+			"path": "D:/5th semester/blink"
+		},
+		{
+			"name": "timer",
+			"path": "D:/5th semester/timer"
+		},
+		{
+			"name": "Week5-Buzzer",
+			"path": "../../Week5-Buzzer"
+		},
+		{
+			"name": "Week4-OLED setup",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
