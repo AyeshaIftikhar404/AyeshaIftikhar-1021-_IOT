@@ -20,7 +20,7 @@ This project demonstrates LED control on an ESP32 using push buttons and an OLED
 
 ## 🔗 Wokwi Simulation
 [Click here to view the simulation on Wokwi](
-https://wokwi.com/projects/445722481831695361
+https://wokwi.com/projects/445891897104150529
 )
 
 ---
