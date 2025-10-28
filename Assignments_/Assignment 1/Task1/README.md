@@ -38,7 +38,7 @@ https://wokwi.com/projects/445891897104150529
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 - **Arduino IDE** – for programming  
 - **Wokwi** – for simulation  
 - **GitHub** – for version control
