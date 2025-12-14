@@ -1,13 +1,13 @@
 # Assignment 1 — ESP32 LED Modes and Button Control
 
-## 👩‍💻 Student Info
+##  Student Info
 **Name:** Ayesha Iftikhar  
 **Reg. No.:** 23-NTU-CS-1021  
 **Section:** BSCS 5th (A)
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 This project demonstrates LED control on an ESP32 using push buttons and an OLED display.  
 - **Button 1:** Cycles through LED modes  
   1. Both OFF  
@@ -18,14 +18,14 @@ This project demonstrates LED control on an ESP32 using push buttons and an OLED
 
 ---
 
-## 🔗 Wokwi Simulation
+##  Wokwi Simulation
 [Click here to view the simulation on Wokwi](
 https://wokwi.com/projects/445891897104150529
 )
 
 ---
 
-## 📍 Pin Map
+##  Pin Map
 | Component        | ESP32 Pin | Notes                                    |
 | ---------------- | --------- | ---------------------------------------- |
 | Button 1 (Mode)  | GPIO 32   | Input, uses `INPUT_PULLUP` and interrupt |
@@ -38,7 +38,7 @@ https://wokwi.com/projects/445891897104150529
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 - **Arduino IDE** – for programming  
 - **Wokwi** – for simulation  
 - **GitHub** – for version control
